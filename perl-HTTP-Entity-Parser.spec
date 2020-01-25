@@ -4,7 +4,6 @@
 #
 %define		pdir	HTTP
 %define		pnam	Entity-Parser
-%include	/usr/lib/rpm/macros.perl
 Summary:	HTTP::Entity::Parser - PSGI compliant HTTP Entity Parser
 Name:		perl-HTTP-Entity-Parser
 Version:	0.21
