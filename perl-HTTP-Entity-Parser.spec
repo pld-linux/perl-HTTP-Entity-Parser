@@ -6,14 +6,14 @@
 %define		pnam	Entity-Parser
 Summary:	HTTP::Entity::Parser - PSGI compliant HTTP Entity Parser
 Name:		perl-HTTP-Entity-Parser
-Version:	0.21
+Version:	0.25
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/HTTP/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	50e8418bfe27ab26818ca6e264052c95
-URL:		http://search.cpan.org/dist/HTTP-Entity-Parser/
+Source0:	https://www.cpan.org/modules/by-module/HTTP/%{pdir}-%{pnam}-%{version}.tar.gz
+# Source0-md5:	09663f9577975587e832e28ba5f5f8af
+URL:		https://search.cpan.org/dist/HTTP-Entity-Parser/
 BuildRequires:	perl-Module-Build
 BuildRequires:	perl-Module-Build-Tiny
 BuildRequires:	perl-devel >= 1:5.8.0
