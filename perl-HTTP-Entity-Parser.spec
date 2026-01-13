@@ -7,7 +7,7 @@
 Summary:	HTTP::Entity::Parser - PSGI compliant HTTP Entity Parser
 Name:		perl-HTTP-Entity-Parser
 Version:	0.25
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
